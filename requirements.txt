@@ -1,0 +1,6 @@
+# Advanced Port Scanner — Python Dependencies
+# Core (standard library only — no install needed):
+#   socket, threading, queue, tkinter, logging, csv, json, os, re, subprocess
+
+# Optional — enables SYN scan, raw UDP/ICMP, OS fingerprinting via raw packets:
+scapy>=2.5.0
